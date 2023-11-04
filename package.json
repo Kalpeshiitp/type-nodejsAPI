@@ -1,0 +1,21 @@
+{
+  "name": "type_node",
+  "version": "1.0.0",
+  "description": "type/node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kalpesh",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.4",
+    "@types/express": "^4.17.20",
+    "@types/node": "^20.8.10"
+  }
+}
